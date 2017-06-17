@@ -1,0 +1,16 @@
+{
+  "name": "HRMtest",
+  "version": "0.1.0",
+  "description": "Test Case HRMLabs",
+  "main": "index.js",
+  "author": "Ade Novid",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2",
+    "big-integer": "^1.6.23"
+  }
+}
